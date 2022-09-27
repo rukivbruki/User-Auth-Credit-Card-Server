@@ -1,0 +1,4 @@
+﻿{
+  "connectionString": "mongodb://localhost/Node-registration-CRUD_API",
+  "secret": "sergeybroido@gmail.com"
+}
